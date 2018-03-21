@@ -2,7 +2,7 @@
 CS453x Machine Learning 
 
 ## Author
-Jonathan Metgzer
+Jonathan Metzger
 
 ## Run
 
